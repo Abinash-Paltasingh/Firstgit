@@ -2,3 +2,4 @@ hey it's first file in git
 sexy chick
 re mc fuck you
 this is new line
+just chages in master
