@@ -1,0 +1,2 @@
+this is the first git doc
+hy ., hello world
